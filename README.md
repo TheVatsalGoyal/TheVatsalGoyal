@@ -3,11 +3,11 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech Computer Science & Engineering (1st Year)**  
+🎓 **B.Tech Computer Science & Engineering (2nd Year)**  
 📚 **CGPA:** 8.55/10  
-💻 Passionate about Programming, Data Structures & Algorithms, and Software Development.  
-🌱 Currently learning **C++, Java, Python, Web Development, and Problem Solving**.  
-🎯 Goal: Become a skilled Software Engineer and contribute to impactful open-source projects.
+💻 Passionate about Software Development, Data Structures & Algorithms, and Competitive Programming.  
+🌱 Currently learning **Data Structures & Algorithms, Full-Stack Web Development, and System Design fundamentals**.  
+🎯 Aspiring Software Engineer who enjoys building projects, solving coding problems, and contributing to open-source.
 
 ---
 
@@ -33,17 +33,15 @@
 
 ## 📊 Coding Profiles
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/thevatsalgoyal/
-- 💻 **GitHub:** https://github.com/TheVatsalGoyal
-- 🍜 **CodeChef:** https://www.codechef.com/users/thevatsalgoyal
-- 🟢 **HackerRank:** https://www.hackerrank.com/profile/thevatsalgoyal
-- ⚡ **LeetCode:** https://leetcode.com/u/thevatsalgoyal/
+- 💼 LinkedIn: https://www.linkedin.com/in/thevatsalgoyal/
+- 💻 GitHub: https://github.com/TheVatsalGoyal
+- 🍜 CodeChef: https://www.codechef.com/users/thevatsalgoyal
+- 🟢 HackerRank: https://www.hackerrank.com/profile/thevatsalgoyal
+- ⚡ LeetCode: https://leetcode.com/u/thevatsalgoyal/
 
 ---
 
 ## 📈 GitHub Stats
-
-> These cards will automatically update on your GitHub profile.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVatsalGoyal&show_icons=true&theme=tokyonight)
 
@@ -55,23 +53,21 @@
 
 ## 🎯 Current Focus
 
-- 📚 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- ⚙️ Open Source Contributions
-- 💡 Competitive Programming
+- 🚀 Data Structures & Algorithms
+- 🌐 Full-Stack Web Development
+- 🏆 Competitive Programming
+- 🤝 Open Source Contributions
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/thevatsalgoyal/
-- GitHub: https://github.com/TheVatsalGoyal
+- 💼 LinkedIn: https://www.linkedin.com/in/thevatsalgoyal/
+- 💻 GitHub: https://github.com/TheVatsalGoyal
 
 ---
 
-### 💡 Quote
+> **"Consistency, curiosity, and continuous learning are the keys to growth."**
 
-> *"Consistency beats intensity. Keep learning, keep building, and success will follow."*
-
-⭐ **Thanks for visiting my profile! Don't forget to star ⭐ the repositories you like.**
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 ```
