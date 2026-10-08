@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════
      ★  GitHub Profile README  ★
-     Replace "YourUsername" with your actual GitHub username everywhere.
-     Replace "Your Name" in the SVG file with your real name.
+     Replace "TheVatsalGoyal" with your actual GitHub username everywhere.
+     Replace "Vatsal Goyal" in the SVG file with your real name.
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -12,15 +12,15 @@
   <br/><br/>
 
   <!-- ▸ PROFILE VIEWS & SOCIAL BADGES -->
-  <a href="https://github.com/YourUsername">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/TheVatsalGoyal">
+    <img src="https://komarev.com/ghpvc/?username=TheVatsalGoyal&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YourLinkedIn/">
+  <a href="https://www.linkedin.com/in/thevatsalgoyal/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vg978653@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -79,7 +79,7 @@
 ### 🌐 Responsive Portfolio Website
 A fully responsive, mobile-first personal portfolio built with **HTML5, CSS3 & JavaScript**.
 <br/><br/>
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername/portfolio-website)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheVatsalGoyal/TheVatsalGoyal.github.io)
 [![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.vercel.app)
 
 </td>
@@ -88,7 +88,7 @@ A fully responsive, mobile-first personal portfolio built with **HTML5, CSS3 & J
 ### ✅ Form Validator Pro
 A robust client-side form validator with **real-time validation**, regex patterns & accessible error states.
 <br/><br/>
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername/form-validator)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheVatsalGoyal/form-validator)
 [![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://form-validator.vercel.app)
 
 </td>
@@ -99,7 +99,7 @@ A robust client-side form validator with **real-time validation**, regex pattern
 ### 🎨 Netflix UI Clone
 A pixel-perfect **Netflix landing page** clone with CSS Grid, Flexbox & smooth scroll animations.
 <br/><br/>
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername/netflix-clone)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheVatsalGoyal/netflix-clone)
 [![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://netflix-clone.vercel.app)
 
 </td>
@@ -108,7 +108,7 @@ A pixel-perfect **Netflix landing page** clone with CSS Grid, Flexbox & smooth s
 ### 🧮 DSA Problem Tracker
 A CLI + web dashboard to **track & visualize** LeetCode / Codeforces progress with streak logging.
 <br/><br/>
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername/dsa-tracker)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheVatsalGoyal/dsa-tracker)
 [![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://dsa-tracker.vercel.app)
 
 </td>
@@ -123,15 +123,15 @@ A CLI + web dashboard to **track & visualize** LeetCode / Codeforces progress wi
 <div align="center">
 
   <!-- ▸ GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheVatsalGoyal&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
   &nbsp;&nbsp;
   <!-- ▸ Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVatsalGoyal&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
 
   <br/><br/>
 
   <!-- ▸ Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&background=0d1117&border=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak" width="520"/>
+  <img src="https://streak-stats.demolab.com?user=TheVatsalGoyal&theme=tokyonight&background=0d1117&border=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak" width="520"/>
 
 </div>
 
@@ -141,7 +141,7 @@ A CLI + web dashboard to **track & visualize** LeetCode / Codeforces progress wi
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheVatsalGoyal&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
@@ -151,7 +151,7 @@ A CLI + web dashboard to **track & visualize** LeetCode / Codeforces progress wi
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TheVatsalGoyal/TheVatsalGoyal/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -161,6 +161,6 @@ A CLI + web dashboard to **track & visualize** LeetCode / Codeforces progress wi
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 
-  <sub>⭐ From <a href="https://github.com/YourUsername">YourUsername</a> — crafted with care.</sub>
+  <sub>⭐ From <a href="https://github.com/TheVatsalGoyal">TheVatsalGoyal</a> — crafted with care.</sub>
 
 </div>
