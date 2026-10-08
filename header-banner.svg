@@ -224,7 +224,7 @@
         stroke-dasharray="120" stroke-dashoffset="120"/>
 
   <!-- ▸ Text Content -->
-  <text class="name"    x="450" y="115" text-anchor="middle">Your Name</text>
+  <text class="name"    x="450" y="115" text-anchor="middle">Vatsal Goyal</text>
   <text class="title"   x="450" y="155" text-anchor="middle">B.Tech Computer Science &amp; Engineering Student</text>
   <text class="tagline" x="450" y="200" text-anchor="middle">Building the future, one commit at a time</text>
 
