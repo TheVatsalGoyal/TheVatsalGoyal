@@ -1,7 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     ★  GitHub Profile README  ★
-     Replace "TheVatsalGoyal" with your actual GitHub username everywhere.
-     Replace "Vatsal Goyal" in the SVG file with your real name.
+     ★  Vatsal Goyal — GitHub Profile README  ★
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -16,11 +14,11 @@
     <img src="https://komarev.com/ghpvc/?username=TheVatsalGoyal&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/thevatsalgoyal/">
+  <a href="https://www.linkedin.com/in/YourLinkedIn/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:vg978653@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -79,7 +77,7 @@
 ### 🌐 Responsive Portfolio Website
 A fully responsive, mobile-first personal portfolio built with **HTML5, CSS3 & JavaScript**.
 <br/><br/>
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheVatsalGoyal/TheVatsalGoyal.github.io)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheVatsalGoyal/portfolio-website)
 [![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.vercel.app)
 
 </td>
@@ -141,7 +139,17 @@ A CLI + web dashboard to **track & visualize** LeetCode / Codeforces progress wi
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=TheVatsalGoyal&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy-three-delta.vercel.app/?username=TheVatsalGoyal&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheVatsalGoyal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
 
 </div>
 
