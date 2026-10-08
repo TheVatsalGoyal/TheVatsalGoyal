@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YourUsername
+          github_user_name: TheVatsalGoyal
           outputs: dist/github-snake-dark.svg?color_snake=0x58a6ff&color_dots=#0d1117,#161b22,#21262d,#30363d,#58a6ff
       - uses: crazy-max/ghaction-github-pages@v3
         with:
